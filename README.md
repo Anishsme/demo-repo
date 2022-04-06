@@ -1,3 +1,4 @@
 # First time using git
 
-DESC
+Hello world
+DESC 
